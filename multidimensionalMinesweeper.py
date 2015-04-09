@@ -2,6 +2,7 @@
 # PURPOSE: Generalized minesweeper for any size or dimensions (up to computer limits)
 # AUTHOR:  Geoffrey Card
 # DATE:    2015-03-23 - 2015-04-08
+# VERSION: 1.0
 # NOTES:   UI is TERRIBLE, almost unplayable, but the math works.
 #          Works in Python 2.7 and 3
 #          Run as script (see end of file) or import and use class
