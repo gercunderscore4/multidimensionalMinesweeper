@@ -4,7 +4,6 @@
 # DATE:    2015-03-23 - 2015-04-25
 # VERSION: 1.0.1
 # TODO:    split matrices before solving
-#          displayLoss seems to have some issues
 #          combine checkVictory and checkFailure
 #          clean up and comment
 # NOTES:   graphics are poor
