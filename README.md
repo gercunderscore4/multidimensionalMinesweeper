@@ -36,7 +36,7 @@ Since each unknown can only be a mine or not, for the number of unknowns k, ther
 Solving as a matrix:
 Using brute force, the number of solutions would be proportional to at least the number of solutions, > O(2^(5^n)).
 Using optimized algorithms should take time proportional to the number of non-zero elements, > O(9^n).
-Using unoptimized algorithms sould take time proportional to the total number of elements, > O(15^n).
+Using unoptimized algorithms should take time proportional to the total number of elements, > O(15^n).
 I don't know the complexity of my algorithm, I use a trick with the binary nature of the solutions and sparsity of the matrix, even that is slow.
 
-There are tricks and certain simpified and trivial cases (e.g. all mines), but that's the simplest opening possible for a non-edge.
+There are tricks and certain simplified and trivial cases (e.g. all mines), but that's the simplest opening possible for a non-edge.
