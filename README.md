@@ -1,15 +1,15 @@
-FILE:    mine
-PURPOSE: Any-dimensional minesweeper
-AUTHOR:  Geoffrey Card
-DATE:    2015-03-23 - 2015-04-25
-VERSION: 1.0.1
-TODO:    split matrices before solving
-        combine checkVictory and checkFailure
-        clean up and comment
-NOTES:   graphics are poor
-
-Game becomes dramatically more difficult per dimension, for both humans and machines.
-Assuming a field with n dimensions.
+FILE:    mine  
+PURPOSE: Any-dimensional minesweeper  
+AUTHOR:  Geoffrey Card  
+DATE:    2015-03-23 - 2015-04-25  
+VERSION: 1.0.1  
+TODO:    split matrices before solving  
+        combine checkVictory and checkFailure  
+        clean up and comment  
+NOTES:   graphics are poor  
+  
+Game becomes dramatically more difficult per dimension, for both humans and machines.  
+Assuming a field with n dimensions.  
 Assuming each dimension has length m greater than or equal to 5:
 Assuming player's first click is a non-edge:
 
